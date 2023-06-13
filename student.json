@@ -1,0 +1,26 @@
+{
+	"firstName": "Alice",
+	"lastName": "Cooper",
+	"age": 45,
+	"gerder": "male",
+	"married": true,
+	"personal_info": {
+		"address": {
+			"country": "United States",
+			"city": "Texas",
+			"street": "11 Freedom street"
+		},
+		"phone_numbers": [
+			{
+			"type": "Home",
+			"number": "123-456-7890"
+			},
+			{
+			"type": "Office",
+			"number": "123-456-7890"
+			}
+		]
+	},
+	"career": ["Data Scientist", "Data Analytics"],
+	"hobby": "Listening to hard rock music"
+}
