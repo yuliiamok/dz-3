@@ -1,0 +1,19 @@
+student:
+    name: George
+    age: 52
+    gender: male
+    married: True
+    children:
+        - "Tom"
+        - "Kate"
+    personal info:
+        address:
+            country: UK
+            city: London
+        phone_numbers: [745-536-8790, 223-763-7362]    
+    career: >
+        Administration and management
+        at finantial organization
+    hobby: |
+        rare cars
+        motrocycles

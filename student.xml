@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+   <firstName>Mary</firstName>
+   <lastName>Franko</lastName>
+   <age>28</age>
+   <gerder>female</gerder>
+   <married>false</married>
+   <personal_info>
+      <address>
+         <country>Ukraine</country>
+		 <city>Lviv</city>
+         <street>8 Shevchenko street</street>
+      </address>
+      <phone_numbers>
+         <phone homePhone="055-628-8753" />
+         <phone officePhone="077-821-7009" />
+      </phone_numbers>
+   </personal_info>
+   <career>Java Developer, DevOps</career>
+   <hobby>CrossFit, Karate</hobby>
+</student>
